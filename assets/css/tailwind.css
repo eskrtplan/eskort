@@ -220,7 +220,7 @@
     /* ================== */
 
     .sign-in-sec {
-        @apply velvet-red-bg md:ivory-smoke-bg w-full md:w-[623px] h-screen grid place-items-center overflow-scroll
+        @apply w-full md:w-[623px] h-screen grid place-items-center overflow-scroll
     }
 
     .new-here {
@@ -301,10 +301,10 @@
     /* SETUP STOP */
 
     .profile-success-wrapper {
-        @apply welcome-wrapper w-full h-screen ivory-smoke-bg flex flex-col
+        @apply w-full h-screen ivory-smoke-bg flex flex-col justify-around items-center
     }
 
     .p-s-sec1 {
-        @apply text-center flex flex-col gap-[20px] justify-center items-center
+        @apply text-center gap-[20px] grid place-items-center
     }
 }

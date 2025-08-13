@@ -2,7 +2,7 @@
     <div class="welcome-wrapper w-12/12">
         <RegistrationTxt/>
 
-        <section class="sign-in-sec">
+        <section class="sign-in-sec ivory-smoke-bg">
             <div class="grid place-items-center">
                 <div class="text-center">
                     <h4 class="reg-header">Face Capturing</h4>

@@ -2,7 +2,7 @@
   <div class="welcome-wrapper w-12/12">
     <RegistrationTxt/>
 
-    <section class="sign-in-sec py-[60px]">
+    <section class="sign-in-sec ivory-smoke-bg py-[60px]">
     <div>
          <header class="flex items-center gap-[12px]">
             <Icon class="w-[24px] h-[24px]" name="material-symbols:shopping-cart"/>
@@ -51,7 +51,7 @@
         label="Continue"
         variant="primary"
         class="mt-[18px]"
-        to="/RegistrationPage/Services"
+        to="/RegistrationPage/Success"
         />
     </div>
     </section>

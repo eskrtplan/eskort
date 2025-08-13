@@ -2,7 +2,7 @@
     <div class="welcome-wrapper w-12/12">
         <RegistrationTxt/>
 
-        <section class="sign-in-sec">
+        <section class="sign-in-sec ivory-smoke-bg">
             <div class="md:hidden p-[42px]">
                 <h4 class="registration-header">Registration</h4>
                 <p class="registration-text">

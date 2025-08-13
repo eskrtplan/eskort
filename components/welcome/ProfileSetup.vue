@@ -2,7 +2,7 @@
   <div class="welcome-wrapper w-12/12">
     <RegistrationTxt/>
 
-    <section class="sign-in-sec">
+    <section class="sign-in-sec ivory-smoke-bg">
     <div>
          <header class="flex items-center gap-[12px]">
             <Icon class="w-[24px] h-[24px]" name="solar:user-heart-rounded-line-duotone"/>

@@ -7,7 +7,7 @@
             </div>
         </section>
 
-        <section class="sign-in-sec">
+        <section class="sign-in-sec velvet-red-bg md:ivory-smoke-bg">
             <div>
                 <!-- LOGIN -->
                 <form action="">

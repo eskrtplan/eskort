@@ -2,7 +2,7 @@
   <div class="welcome-wrapper w-12/12">
     <RegistrationTxt/>
 
-    <section class="sign-in-sec">
+    <section class="sign-in-sec ivory-smoke-bg">
     <h1 class="code-header">We’ve send a 5 digit code to your number 0810 9** ****</h1>
     <div>
     <label for="code" class="text-[18px] text-left mb-[4px]">Enter Code</label>
